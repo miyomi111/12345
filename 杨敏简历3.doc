@@ -1,0 +1,257 @@
+<html
+	xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:w="urn:schemas-microsoft-com:office:word"
+	xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+	xmlns:mv="http://macVmlSchemaUri"
+	xmlns="http://www.w3.org/TR/REC-html40">
+	<head>
+		<title>Resume</title>
+		<!--[if gte mso 9]>
+			<xml>
+				<w:WordDocument>
+					<w:View>Print</w:View>
+					<w:Zoom>100</w:Zoom>
+					<w:DoNotOptimizeForBrowser/>
+				</w:WordDocument>
+			</xml>
+		<![endif]-->
+		<style>
+			@page { font-family:'Raleway',sans-serif; }
+			@page WordSection1 {
+				margin:15mm 14.7mm;
+				size:210mm 297mm;
+				font-family:'Raleway',sans-serif;
+				font-size:3.5mm;
+			}
+			div.WordSection1 {page:WordSection1;}
+			div.block, div.child, div.last-child {
+				font-family:'Raleway',sans-serif;
+				border:2px solid transparent;
+				margin-bottom:1.0em;
+			}
+			p.title,p.sub-title {
+				font-family:'Roboto Condensed',sans-serif;
+			}
+			ul,li{margin-top:0;padding-top:0}
+						 {
+				font-size: 3.5mm;
+			}
+			 div.papersheet-outer {
+				margin: 0 auto 5em;
+				color: #000;
+				background-color: #fff;
+				max-width: 210mm;
+				min-height: 297mm;
+			}
+			 div.papersheet-inner {
+				padding-top: 15mm;
+				margin: auto;
+				width: 86%;
+				font-family: Raleway;
+			}
+			 div.person,
+			 p.title,
+			 p.sub-title {
+				font-family: Roboto Condensed;
+			}
+			 div.block,
+			 div.child,
+			 p.last-child {
+				margin-bottom: 1em;
+				border: 2px solid transparent;
+				margin-bottom: 1em !important;
+			}
+	
+			/*fix the red/grey header not filling all the space in safari and firefox*/
+			.papersheet-inner > table.wide {
+				max-width: unset;
+			}
+	
+			div.html-content, div.html-content *, div.note-editable * {
+				line-height: 1.5em !important;
+				margin-top: 0 !important;
+				margin-bottom: 0 !important;
+				font-size: 1em !important;
+				padding-top: 0 !important;
+				padding-bottom: 0 !important;
+				border: none;
+			}
+			 p {
+				line-height: 1.4em;
+				margin: 0 0 .6em;
+			}
+			 p.sub-title {
+				font-size: 1.2em;
+				font-weight: bold;
+				margin: 0;
+			}
+			 p.sub-where {
+				font-size: 1.1em;
+				margin: 0;
+			}
+			 p.sub-dates {
+				font-size: 1em;
+				color: #555;
+				margin: 0 0 .5em;
+			}
+			 p.person {
+				font-size: 4em;
+				margin-bottom: 0;
+				line-height: 1.2em;
+				margin-top: -.2em;
+			}
+			 p.jobtitle {
+				font-size: 1.2em;
+				margin: 0;
+			}
+			 p.location {
+				font-size: 1em;
+				color: #555;
+			}
+			 span.company {
+				color: #555;
+				font-weight: bold;
+			}
+			 p.title {
+				font-size: 1.3em;
+				font-weight: bold;
+				margin-bottom: .5em;
+				background: #eee;
+				padding: .2em .5em;
+			}
+			 div.block.person {
+				margin: 0;
+			}
+			 table.wide {
+				width: 100%;
+				border-collapse: collapse;
+			}
+			 td.left {
+				width: 30%;
+				vertical-align: top;
+			}
+			 td.right {
+				width: 70%;
+				vertical-align: top;
+			}
+
+		</style>
+	</head>
+	<body style="margin:0">
+		<div class="WordSection1">
+					<div class="papersheet-outer">
+			<div class="papersheet-inner">
+				<div class="block person" sr-r-category="person">
+					<p class="person"><span sr-r-fld="firstName">Min</span> <span sr-r-fld="lastName">Yang</span></p>
+					<p class="jobtitle" sr-r-fld="jobTitle">English teacher</p>
+					<p class="location" sr-r-fld="location">Hainan,Haikou</p>
+				</div>
+				<table class="wide">
+					<tr>
+						<td class="left">
+							<div class="block contact" sr-r-category="contact">
+								<div class="html-content" sr-r-fld="html">
+									<p>337955194@qq.com</p>
+<p>111-222-3333</p>
+<p>&nbsp;</p>
+								</div>
+							</div>
+						</td>
+						<td class="right">
+					<div class="block" sr-r-category="text" sr-r-id="1">
+						
+						<p class="title" sr-r-fld="title">Summary</p>
+						
+						<div class="block-inner">
+							<div class="html-content" sr-r-fld="html">
+								<p>&nbsp;Once worked as an English teacher and an English teaching assistant in a training institution. Have a good command of the content and pace of the class, and can clearly understand the important and difficult points of classroom teaching. Treat students more patient, have affinity.Serious and responsible to work, hard-working, good at learning.</p>
+							</div>
+						</div>
+						
+					</div>
+					<div class="block" sr-r-category="experience" sr-r-id="2">
+						
+						<p class="title" sr-r-fld="title">Work Experience</p>
+						
+						<div class="block-inner">
+							<div class="child" sr-r-id="2c1" sr-r-category="experience">
+								<p class="sub-title" sr-r-fld="title">English teacher</p>
+								<p class="sub-where"><span class="company" sr-r-fld="where">Haikou chenghua education center</span>, <span sr-r-fld="location">Haikou</span></p>
+								<p class="sub-dates"><span sr-r-fld="fromMonth">Jul</span> <span sr-r-fld="fromYear">2019</span> &ndash; <span sr-r-fld="toMonth">Sep</span> <span sr-r-fld="toYear">2019</span></p>
+								<div class="html-content" sr-r-fld="html">
+									<ul>
+<li>All English teaching 3 to 5 years old children oral training, training students in English thinking</li>
+<li>According to the course arrangement, analyze the important and difficult points of the course</li>
+<li>Timely feedback to parents of students in class, do a good job in communication</li>
+</ul>
+								</div>
+							</div>
+							<div class="last-child" sr-r-id="2c2" sr-r-category="experience">
+								<p class="sub-title" sr-r-fld="title">Course teaching assistant</p>
+								<p class="sub-where"><span class="company" sr-r-fld="where">Haikou chenghua education center</span>, <span sr-r-fld="location">Haikou</span></p>
+								<p class="sub-dates"><span sr-r-fld="fromMonth">Jul</span> <span sr-r-fld="fromYear">2018</span> &ndash; <span sr-r-fld="toMonth">Sep</span> <span sr-r-fld="toYear">2018</span></p>
+								<div class="html-content" sr-r-fld="html">
+									<ul>
+<li>Assist the teaching department to ensure the normal operation of teaching</li>
+<li>Organize students to make independent learning plans, give feedback on self-study records, and check students' course learning status</li>
+<li>Send and receive student data, notice, letter, organize teaching tracking</li>
+<li>Collect student information and communicate effectively</li>
+</ul>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="block" sr-r-category="education" sr-r-id="3">
+						
+						<p class="title" sr-r-fld="title">Education</p>
+						
+						<div class="block-inner">
+							<div class="last-child" sr-r-id="3c1" sr-r-category="education">
+								<p class="sub-title" sr-r-fld="title">Bachelor degree</p>
+								<p class="sub-where"><span sr-r-fld="where">ChongQing university of education</span>, <span sr-r-fld="location">ChongQing </span></p>
+								<p class="sub-dates"><span sr-r-fld="fromYear">2016</span> &ndash; </p>
+								<div class="html-content" sr-r-fld="html">
+									<ol>
+<li>Mandarin level 2 certificate</li>
+<li>Certificate of cet-4 and cet-6</li>
+<li>Primary school teacher certificate</li>
+<li>School scholarship</li>
+</ol>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="block" sr-r-category="text" sr-r-id="4">
+						
+						<p class="title" sr-r-fld="title">Interests</p>
+						
+						<div class="block-inner">
+							<div class="html-content" sr-r-fld="html">
+								<p>Taking care of the children、Read a book、Do sports</p>
+							</div>
+						</div>
+						
+					</div>
+					<div class="block" sr-r-category="text" sr-r-id="5">
+						
+						<p class="title" sr-r-fld="title">Languages</p>
+						
+						<div class="block-inner">
+							<div class="html-content" sr-r-fld="html">
+								<p>Chinese、English、Cantonese</p>
+							</div>
+						</div>
+						
+					</div>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+
+		</div>
+	</body>
+</html>
